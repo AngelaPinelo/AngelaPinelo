@@ -3,11 +3,16 @@ I'm a 20 years old systems engineering student. I've been studying this career f
 Java and Python. I want to become a full stack software developer to be able to provide solutions to companies that need it, working doing
 what I love. I'm a passionate, and very commited person that love to seek for practical solutions.</br>
 🔭 I’m currently learning web development using Javascript and Node.js </br>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> </br>
+
+![Hi](https://media0.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif?cid=ecf05e47fydqm6pa9mifpgw2rk1nzgomo1es6bs0n5d7bzma&rid=giphy.gif&ct=g) </br>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaPinelo)](https://github.com/anuraghazra/github-readme-stats&theme=radical)</br>
 
