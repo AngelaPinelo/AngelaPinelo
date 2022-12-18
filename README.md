@@ -38,6 +38,7 @@ what I love. I'm a passionate, and very commited person that love to seek for pr
 
 </div>
 
+<div align="center">
 <h1 align="center"> 🌟 &nbsp; Stats</h1>
 
 
@@ -48,5 +49,5 @@ what I love. I'm a passionate, and very commited person that love to seek for pr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaPinelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 
-
+</div>
 
