@@ -38,14 +38,15 @@ what I love. I'm a passionate, and very commited person that love to seek for pr
 
 </div>
 
-<h1 align="center"> 🧰 &nbsp; My toolbox</h1>
+<h1 align="center"> 🌟 &nbsp; Stats</h1>
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelaPinelo&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 &nbsp;
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=AngelaPinelo&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaPinelo)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaPinelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
 
 
 
