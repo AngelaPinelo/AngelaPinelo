@@ -1,5 +1,6 @@
 ### Hi! I'm Angela <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></br>
-<img src="https://github.com/AngelaPinelo/AngelaPinelo/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /></br>
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
 I'm a 20 year old systems engineering student. I've been studying this career for 2 years now, I've learned 2 programing languajes; 
 Java and Python. I want to become a full stack software developer to be able to provide solutions to companies that need it, working doing
 what I love. I'm a passionate, and very commited person that love to seek for practical solutions.</br>
