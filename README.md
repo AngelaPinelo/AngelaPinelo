@@ -4,10 +4,10 @@
   <br />
   <br />
   
-I'm a 20 years old systems engineering student. I've been studying this career for 2 years now, I've learned 2 programing languajes; 
-Java and Python. I want to become a full stack software developer to be able to provide solutions to companies that need it, working doing
+I'm a 22 year old systems engineering student. I've been studying this career for 3 years now, I've learned several programing languajes; the ones that I feel more confortable using are:
+Javascript and Python 😋. I'm working on becaming a full stack software developer to be able to provide solutions to companies that need it, working doing
 what I love. I'm a passionate, and very commited person that love to seek for practical solutions.</br>
-🔭 I’m currently learning web development using Javascript and Node.js </br>
+🔭 I’m constantly learning about web and software development 🔭 </br>
 
 </div>
 
@@ -16,9 +16,14 @@ what I love. I'm a passionate, and very commited person that love to seek for pr
   <h1> 🧰 &nbsp; My toolbox</h1>
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp; 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" /> &nbsp;
+           
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50" /> &nbsp;
+          
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+
   </div>
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -44,10 +49,8 @@ what I love. I'm a passionate, and very commited person that love to seek for pr
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelaPinelo&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 &nbsp;
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=AngelaPinelo&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaPinelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
+
+
 
 </div>
 
